@@ -25,8 +25,8 @@
 
 # Resources
 https://askubuntu.com/questions/896389/how-do-i-install-and-start-apache2
-http://flask-ask.readthedocs.io/en/latest/getting_started.html
 https://stackoverflow.com/questions/22353512/how-to-install-sqlalchemy-on-ubuntu
+http://flask-ask.readthedocs.io/en/latest/getting_started.html 
 
 # commands which followed
 
