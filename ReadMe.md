@@ -23,6 +23,9 @@
   6-finger
   7-git
 
+# Resources
+https://askubuntu.com/
+
 # commands which followed
 
   -Create a new user 'grader' :
